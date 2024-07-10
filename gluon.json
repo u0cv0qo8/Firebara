@@ -1,0 +1,21 @@
+{
+  "name": "Firebara",
+  "vendor": "u0cv0qo8",
+  "appId": "com.u0cv0qo8.firebara",
+  "binaryName": "firebara",
+  "version": {
+    "product": "firefox",
+    "version": "128.0"
+  },
+  "buildOptions": {
+    "windowsUseSymbolicLinks": false
+  },
+  "addons": {},
+  "brands": {},
+  "license": {
+    "ignoredFiles": [
+      ".*\\.json"
+    ],
+    "licenseType": "MPL-2.0"
+  }
+}
